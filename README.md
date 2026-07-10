@@ -50,7 +50,7 @@ Portfolio
 
 ## Projects
 
-![Projects](assets/screenshots/projects.png))
+![Projects](assets/screenshots/projects.png)
 
 ## 👨‍💻 Author
 
