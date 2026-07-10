@@ -44,7 +44,13 @@ Portfolio
 
 ## 📸 Screenshots
 
-(Add homepage screenshot here)
+## Home
+
+![Home](assets/screenshots/home.png)
+
+## Projects
+
+![Projects](assets/screenshots/projects.png))
 
 ## 👨‍💻 Author
 
