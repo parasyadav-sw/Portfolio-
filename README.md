@@ -51,13 +51,12 @@ Portfolio
 Paras Yadav
 
 LinkedIn:
-(Your LinkedIn)
-
+https://www.linkedin.com/in/paras-yadav-sw
 GitHub:
 https://github.com/parasyadav-sw
 
 Email:
-your@email.com
+parasyadav19005@email.com
 
 ## ⭐ Show your support
 
